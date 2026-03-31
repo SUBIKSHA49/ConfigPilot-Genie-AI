@@ -1,0 +1,5 @@
+Node.js compatibility:
+
+- Use LTS version (Long Term Support)
+- Node 18 or Node 20 recommended
+- Angular requires Node 18+

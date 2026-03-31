@@ -1,0 +1,32 @@
+{
+  "cuda": {
+    "binary": "nvcc",
+    "bin_paths": [],
+    "residual_keywords": ["cuda", "nvidia"]
+  },
+  "python": {
+    "binary": "python",
+    "bin_paths": [],
+    "residual_keywords": ["python"]
+  },
+  "git": {
+    "binary": "git",
+    "bin_paths": [],
+    "residual_keywords": ["git"]
+  },
+  "node": {
+    "binary": "node",
+    "bin_paths": [],
+    "residual_keywords": ["node", "npm"]
+  },
+  "java": {
+    "binary": "java",
+    "bin_paths": [],
+    "residual_keywords": ["java", "jdk"]
+  },
+  "docker": {
+    "binary": "docker",
+    "bin_paths": [],
+    "residual_keywords": ["docker"]
+  }
+}

@@ -1,0 +1,5 @@
+Python compatibility:
+
+- Python 3.10 and 3.11 are best for ML
+- Python 3.12 may break some libraries
+- TensorFlow prefers Python 3.10/3.11

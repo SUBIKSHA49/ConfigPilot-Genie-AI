@@ -1,0 +1,8 @@
+CUDA compatibility guide:
+
+- CUDA version depends on GPU and driver
+- RTX 3050 supports CUDA 11.x and 12.x
+- PyTorch works best with CUDA 11.8 or 12.1
+
+If nvcc not found:
+- CUDA Toolkit is not installed OR PATH is missing
