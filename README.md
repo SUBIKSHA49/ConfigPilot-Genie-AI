@@ -39,17 +39,18 @@ Compatibility reasoning,
 Step-by-step installation guide.
 
 Architecture:
-User Input->
+
+1.)User Input
    
-Inspector (Facts)->
+2.)Inspector (Facts)
    
-Rule Engine (Logic)->
+3.)Rule Engine (Logic)
    
-Fixer (Actions)->
+4.)Fixer (Actions)
    
-RAG (Knowledge)->
+5.)RAG (Knowledge)
    
-LLM (Gemini).
+6.)LLM (Gemini).
 
 Tech Stack:
 Python,
