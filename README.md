@@ -5,16 +5,16 @@ This project is an intelligent AI agent that analyzes a system’s environment a
 
 It combines:
 
-System inspection
-Rule-based reasoning
-Retrieval-Augmented Generation (RAG)
-LLM-powered recommendations using Google Gemini
+System inspection,
+Rule-based reasoning,
+Retrieval-Augmented Generation (RAG),
+LLM-powered recommendations using Google Gemini,
 Features
 1.) System Inspection
-Detect installed software (Python, CUDA, Git, etc.)
-Identify PATH configuration issues
-Detect GPU and system configuration
-Find residual/uninstalled files
+Detect installed software (Python, CUDA, Git, etc.),
+Identify PATH configuration issues,
+Detect GPU and system configuration,
+Find residual/uninstalled files.
 2.)Rule-Based AI
 Logical conclusions from system facts
 
@@ -66,11 +66,10 @@ Install Dependencies,
 Add API Key,
 Run Project.
 
-Author
+Author:
 Subiksha M
 
 Final Output
-
 The system generates:
 
 System analysis
