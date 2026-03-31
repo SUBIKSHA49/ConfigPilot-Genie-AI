@@ -50,5 +50,24 @@ Fixer (Actions)
 RAG (Knowledge)
    ↓
 LLM (Gemini)
+
+Tech Stack:
+Python
+System-level inspection (os, subprocess)
+Rule-based AI
+RAG architecture
+Google Gemini API-any API of our wish here i used it
+dotenv
+
+Setup:
+1️.)Clone Repository
+2.)Create Virtual Environment
+3.)Install dependencies
+4.)Add API key
+5.)Run Project
+
+Author
+Subiksha M
+
    ↓
 Final Recommendation
