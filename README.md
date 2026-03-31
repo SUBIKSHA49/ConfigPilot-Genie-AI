@@ -2,10 +2,10 @@
 Personal AI System Inspector is an intelligent AI agent that analyzes your system environment and provides smart, compatibility-aware software installation guidance.
 
 It combines:
-🔍 System inspection
-🧠 Rule-based reasoning
-📚 Retrieval-Augmented Generation (RAG)
-🤖 LLM-powered recommendations using Google Gemini
+1.) System inspection
+2.) Rule-based reasoning
+3.)Retrieval-Augmented Generation (RAG)
+4.) LLM-powered recommendations using Google Gemini
 
  Features
 
